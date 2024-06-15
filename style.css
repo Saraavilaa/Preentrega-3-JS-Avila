@@ -14,6 +14,7 @@ body {
     justify-content: center;
     margin-top: 30px;
     font-family: "Bebas Neue", sans-serif;
+    font-size: 70px;
 }
 
 .box-01 {
@@ -23,7 +24,7 @@ body {
     justify-content: center;
     min-height: 80vh;
     padding: 50px 55px;
-    box-shadow: 0 0 20px rgba(48, 48, 48, 0.2);
+    box-shadow: 0 0 20px rgba(70, 255, 101, 0.507);
     border-radius: 20px;
 }
 
