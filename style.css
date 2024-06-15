@@ -29,7 +29,7 @@ body {
 
 
 label {
-    color:#ff8d8d;
+    color:#3a633f;
     font-size: 30px;
     font-weight: 600px;
     margin-bottom: 15px;
@@ -42,26 +42,31 @@ label {
 }
 
 input {
-    padding: 17px 25px;
+    padding: 25px 25px;
     border-radius: 25px;
     margin-bottom: 20px;
-    background-color: #ffedbb;
+    font-size: 20px;
+    background-color: #bfffd2;
     border: 2px solid #fff6f4;
     color: #7e7272;
     outline: none;
 }
 
 .btn {
-    padding: 10px 20px 10px 20px;
+    padding: 20px 30px 20px 30px;
     color: #FFFFFF;
     margin: 0px 5px 80px 5px;
     background-color: #111111;
     border-radius: 40em;
     border: none;
-    font-size: 14px;
+    font-size: 25px;
 }
 
 .btn:hover {
     background-color: #222222;
 }
 
+.result {
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+}
